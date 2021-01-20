@@ -1,5 +1,4 @@
 baseURL = "https://www.stalbanspreschool.info/"
 languageCode = "en-us"
 title = "St Albans Community Preschool!"
-theme = "educenter-hugo"
-
+theme = "gohugo-theme-ananke"
